@@ -58,21 +58,22 @@ class Fraction:
             self.dr = int(self.dr / n)
 
 
-fr = Fraction(1, 2)
-other = Fraction(1.5, -3)
-print(fr, other)
+Fraction_1 = Fraction(4, 5)
+Fraction_2 = Fraction(3, -2)
 
-print()
+print("Phân số đã nhập: ",Fraction_1, Fraction_2)
+print("-"*50)
 
-print(fr + other)
-print(fr - other)
-print(fr * other)
-print(fr / other)
+print("Tổng 2 p/s = ",Fraction_1 + Fraction_2)
+print("Hiệu 2 p/s = ",Fraction_1 -Fraction_2)
+print("Tích 2 p/s = ",Fraction_1 * Fraction_2)
+print("Chia 2 p/s = ",Fraction_1 / Fraction_2)
 
-print()
+print("-"*50)
 
-fr = Fraction(1, 2)
-print(fr + 1)
-print(fr - 1.5)
-print(fr * 2)
-print(fr / 2)
+print("p/s 1 + 3 = ",Fraction_1 + 3)
+print("p/s 1 - 0.5 = ",Fraction_1 - 0.5)
+print("p/s 2 * 2 = ",Fraction_2 * 2)
+print("p/s 2/2= ",Fraction_2 / 2)
+
+
