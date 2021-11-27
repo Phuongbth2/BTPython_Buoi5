@@ -4,7 +4,7 @@
 # http://www.apache.org/licenses/LICENSE-2.0
 
 # Python for Tester - OneMount Class
-# Quang Le - quangdle@gmail.com - 09/2021
+# Quang Le - quangdle@gmail.com - 09/2021 
 
 import sys
 import re
