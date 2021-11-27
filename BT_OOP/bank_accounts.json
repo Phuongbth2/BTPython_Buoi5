@@ -1,0 +1,22 @@
+[
+    {
+        "account_number": "1",
+        "account_name": "Bùi Thị Hồng Phuơng",
+        "balance": 5000000
+    },
+    {
+        "account_number": "2",
+        "account_name": "Nguyễn Khắc Tuệ Minh",
+        "balance": 3000000
+    },
+    {
+        "account_number": "3",
+        "account_name": "Nguyễn Khắc Uy Vũ",
+        "balance": 4000000
+    },
+    {
+        "account_number": "4",
+        "account_name": "Hoàng Thu Thảo",
+        "balance": 6000000
+    }
+]
